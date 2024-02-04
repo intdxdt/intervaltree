@@ -1,4 +1,4 @@
-package main
+package intervaltree
 
 import (
 	"github.com/rdleal/intervalst/interval"
